@@ -1,0 +1,60 @@
+0
+What is the name of the organ in the picture below?
+kidneyImage.jpg
+kidney
+1
+What is this structure (in red) in  the heart called?
+alveoli.jpg
+alveoli
+2
+What is this structure (in red) in the heart called?
+bronchi.jpg
+bronchi
+3
+What is this structure (in red) in the heart called?
+bronchioles.jpg
+bronchioles
+4
+What is the name of the organ in the picture below?
+organStomach.jpg
+stomach
+5
+What is the name of the organ in the picture below?
+largeIntestine.jpg
+large intestine
+6
+What is the name of the organ in the picture below?
+liverImage.jpg
+liver
+7
+What is the name of the organ in the picture below?
+smallIntestine.jpg
+small intestine
+8
+What is the name of the organ in the picture below?
+pancreasImage.jpg
+pancreas
+9
+Which ventricle in the heart is this (in red)?
+leftVentricle.jpg
+left ventricle
+10
+Which atrium in the heart is this (in red)?
+rightAtrium.jpg
+right atrium
+11
+What is the name of the lobe in the picture below?
+temporalLobe.jpg
+temporal lobe
+12
+What is the name of the structure in the brain below?
+brainStem.jpg
+brain stem
+13
+What is the name of the organ in the picture below?
+spleen.jpg
+spleen
+14
+What is the name of the structure in the brain below?
+cerbellum.jpg
+cerbellum
